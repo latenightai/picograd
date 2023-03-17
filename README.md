@@ -2,7 +2,7 @@
     <img src="https://github.com/latenightai/picograd/blob/main/docs/logo01.png" alt="logo">
 </p>
 
-<h3 align="center">A deep learning library inspired by tinygrad and micrograd</h3>
+<h3 align="center">A lightweight deep learning library inspired by tinygrad and micrograd</h3>
 <h3>Descriptions</h3>
 <h3>Implementations</h3>
 
